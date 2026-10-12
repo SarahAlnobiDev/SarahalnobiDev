@@ -1,151 +1,247 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# Sarah Al-Nobi | XZero ❄️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:334B8E,100:8661C1&height=230&section=header&text=Sarah%20Al-Nobi%20%7C%20XZero&fontSize=43&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Curious%20Builder&descSize=17&descAlignY=60" alt="Sarah Al-Nobi - XZero"/>
 
-### 💻 Software Engineering Student | Technology Enthusiast
+<br>
 
-**Learning deeply. Building with purpose. Growing through experience.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3300&pause=1100&color=9C82F8&center=true&vCenter=true&width=650&height=65&lines=Learning+the+WHY+behind+the+HOW;Turning+curiosity+into+code;Exploring+the+world+of+technology;Building%2C+questioning%2C+and+growing" alt="Animated introduction"/>
 
-Passionate about understanding technology, exploring new ideas,
-and turning knowledge into practical software projects.
+<br>
+
+**Curiosity • Understanding • Building • Exploring**
+
+<br>
+
+![Profile](https://komarev.com/ghpvc/?username=SarahAlnobiDev&color=8065C9&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 ## 👩‍💻 About Me
 
-I'm a **Software Engineering student** with a strong interest in
-programming, software development, and understanding how computer
-systems work.
+Hello! I'm **Sarah Al-Nobi (XZero)**, a Software Engineering student fascinated by the world of computers, software systems, and emerging technologies.
 
-I enjoy exploring the concepts behind technology and applying
-what I learn through practical, well-structured projects.
+What interests me most isn't simply learning how to write code, but understanding **how things work, why they work, and how different technologies come together to solve real problems.**
 
-My journey involves working with different programming languages,
-designing databases, developing desktop applications, and
-strengthening my problem-solving skills.
+I enjoy exploring new ideas, strengthening my programming fundamentals, and turning what I learn into practical projects.
 
-I'm particularly interested in building meaningful applications
-while continuously exploring emerging technologies and the
-possibilities of Artificial Intelligence.
+My journey is driven by curiosity, experimentation, and the belief that meaningful progress begins with asking questions.
 
-> 💡 I believe strong fundamentals, curiosity, and consistent
-> learning are the foundation of meaningful progress.
+- 🎓 Studying **Software Engineering**
+- 💻 Interested in **Software Development, Databases & System Design**
+- 🧠 Exploring **Computer Science, AI & Emerging Technologies**
+- 🛠️ Learning through **Hands-on Projects & Experimentation**
+- 🌱 Continuously improving my technical knowledge and problem-solving skills
+
+> **I don't want to simply follow technology. I want to understand the ideas that make it possible.**
 
 ---
 
-## 🧠 Technical Skills
+<!-- ===================== TECH STACK ===================== -->
 
-### 💻 Programming Languages
+## 🛠️ Tech Stack & Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css" />
-</p>
+<div align="center">
 
-- **Python** — Desktop applications, application logic, and database integration.
-- **Java** — Object-Oriented Programming and desktop application development.
-- **C++** — Programming fundamentals, algorithms, and problem-solving.
-- **HTML & CSS** — Web page structure, styling, and interface design.
+### 💻 Languages & Development Tools
 
-### 🗄️ Databases & SQL
+<img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,sqlite,git,github,maven,idea&perline=10&theme=dark" alt="Programming Languages and Tools"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />
-</p>
+<br><br>
 
-- **Oracle Database** — Relational database design and implementation.
-- **SQL** — Database queries, table creation, and relational operations.
-- **SQLite** — Lightweight database integration with Python applications.
+### 🗄️ Databases & Application Development
 
-### 🛠️ Frameworks & Development Tools
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-284E7B?style=for-the-badge)
+![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge)
+![FXML](https://img.shields.io/badge/FXML-5865A6?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-263859?style=for-the-badge)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven" />
-</p>
+<br>
 
-- **JavaFX & FXML** — Desktop user interfaces.
-- **CustomTkinter** — Python desktop GUI development.
-- **JDBC** — Java database connectivity.
-- **Maven** — Java project builds and dependency management.
-- **Git & GitHub** — Version control, collaboration, and documentation.
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-7556B8?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database_Design-285C78?style=for-the-badge)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-C74634?style=for-the-badge)
 
-### 🧩 Software Development Concepts
+</div>
 
-`OOP` · `Database Design` · `SQL` · `GUI Development` ·
-`Problem Solving` · `Software Architecture`
+<br>
+
+**Areas I've explored through coursework and projects:**
+
+- **Software Development:** Python, Java, C++
+- **Desktop Applications:** JavaFX, FXML, CustomTkinter
+- **Databases:** Oracle Database, SQLite, SQL, ERD
+- **Web Fundamentals:** HTML, CSS, Responsive Design
+- **Development Practices:** OOP, Git, GitHub, Maven, JDBC
+- **Design:** UI Organization, Basic UI/UX Principles
 
 ---
 
-## 🚀 Selected Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-### 🌟 FurtherHub | Academic Resource Management System
+## 🚀 Featured Projects
 
-**Python · CustomTkinter · SQLite**
+A selection of projects that represent my learning journey and practical experience.
 
-A Python desktop application designed to make academic resources
-easier to organize, share, and access among university students.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-The application supports structured resource management,
-peer-to-peer sharing, resource categorization, and user feedback.
+### 🌱 IMTIDAD | امتداد
 
-🏆 **2nd Place — Artifact 4 Student Projects Exhibition**
-*Female Students Category*
+**Academic Project Knowledge & Continuity Platform**
 
-🔗 **[Explore FurtherHub](https://github.com/SarahAlnobiDev/furtherhub)**
+A JavaFX desktop application designed to preserve outstanding university projects, organize academic reviews, and support project continuation across student generations.
+
+**Tech:** Java, JavaFX, Oracle, SQL, Maven
+
+<a href="https://github.com/SarahAlnobiDev/IMTIDAD-Academic-Project-Platform">
+<img src="https://img.shields.io/badge/Explore_Project-7057C8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ MADA | مدى
+
+**University Project Knowledge Repository**
+
+A Database Systems project focused on designing a relational database for preserving and organizing academic projects, with an initial Oracle APEX prototype.
+
+**Tech:** Oracle Database, SQL, ERD, APEX
+
+<a href="https://github.com/SarahAlnobiDev/mada-database-system">
+<img src="https://img.shields.io/badge/Explore_Project-7057C8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 FurtherHub
+
+**Academic Resource Management System**
+
+A Python desktop application for organizing and sharing academic resources, featuring a structured interface and SQLite integration.
+
+🏆 **2nd Place — Artifact 4 Student Projects Exhibition (Team Achievement)**
+
+**Tech:** Python, CustomTkinter, SQLite
+
+<a href="https://github.com/SarahAlnobiDev/furtherhub">
+<img src="https://img.shields.io/badge/Explore_Project-7057C8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 FutureHub | Web MVP
+
+**Technology Learning & Discovery Platform**
+
+An Arabic-focused educational web prototype designed to organize technical learning resources, developer tools, and technology news.
+
+**Tech:** HTML, CSS, Responsive Design
+
+<a href="https://github.com/SarahAlnobiDev/FutureHub-Web-MVP">
+<img src="https://img.shields.io/badge/Explore_Project-7057C8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+*Every project is an opportunity to understand something new, experiment with ideas, and improve.*
+
+</div>
 
 ---
 
-### 🌱 IMTIDAD | Academic Project Knowledge & Continuity Platform
-
-**Java · JavaFX · Oracle Database · JDBC · Maven**
-
-A Java-based desktop application developed to preserve,
-organize, and connect outstanding university student projects.
-
-IMTIDAD aims to transform academic projects from temporary
-submissions into a growing knowledge repository that future
-students can explore, learn from, and build upon.
-
-The system includes academic project management, review workflows,
-project documentation, continuation requests, and project lineage.
-
-Its central vision is to preserve academic knowledge and
-encourage continuous development across student generations.
-
-🔗 **[Explore IMTIDAD](https://github.com/SarahAlnobiDev/IMTIDAD-Academic-Project-Platform)**
-
----
+<!-- ===================== CURRENTLY EXPLORING ===================== -->
 
 ## 🌱 Currently Learning & Exploring
 
-- ☕ Deepening my understanding of **Java and Object-Oriented Programming**.
-- 🗄️ Strengthening my skills in **database design and SQL**.
-- 🧩 Exploring **software architecture and clean code principles**.
-- 🧠 Improving algorithmic thinking and problem-solving.
-- 🎨 Developing better **UI/UX design practices**.
-- 🤖 Exploring **Artificial Intelligence and emerging technologies**.
+My learning journey goes beyond collecting programming languages.
+
+I'm currently focusing on developing a deeper understanding of:
+
+- 🧠 **Algorithms & Problem Solving** — strengthening logical and analytical thinking.
+- 🏗️ **Software Architecture** — understanding how well-structured systems are designed.
+- 🗄️ **Database Systems** — improving data modeling and relational database design.
+- 💻 **Object-Oriented Design** — writing more modular and maintainable applications.
+- 🎨 **UI/UX Fundamentals** — creating thoughtful and usable interfaces.
+- 🤖 **Artificial Intelligence & Emerging Technologies** — exploring concepts and developments shaping the future of computing.
 
 ---
+
+<!-- ===================== GITHUB ACTIVITY ===================== -->
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SarahAlnobiDev&show_icons=true&hide_border=true&theme=transparent" />
+<img width="460" src="https://github-readme-stats.vercel.app/api?username=SarahAlnobiDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9C82F8&icon_color=70D6FF&text_color=C9D1D9" alt="GitHub Statistics"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarahAlnobiDev&bg_color=0D1117&color=9C82F8&line=70D6FF&point=FFFFFF&area=true&area_color=7057C8&hide_border=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
+<!-- ===================== PHILOSOPHY ===================== -->
+
+## 💭 My Learning Philosophy
+
 <div align="center">
 
-### ❄️ XZero
+### "In a world overflowing with knowledge, I choose to stay curious."
 
-**Curiosity drives learning. Practice builds understanding.**
+*The more I learn, the more I realize how much there is left to explore.*
 
-*Consistency and strong fundamentals matter more than speed.*
+I believe real understanding begins with curiosity.
+
+Not with knowing every answer, but with having the courage to ask questions, explore unfamiliar ideas, and challenge what I think I know.
+
+I value **depth over shortcuts, understanding over memorization, and steady progress over rushing.**
+
+My goal isn't to master everything overnight.
+
+It's to keep learning, keep building, and become a little more capable with every step.
+
+<br>
+
+**Stay curious. Think deeply. Build with purpose.**
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### ✨ Thanks for visiting!
+
+*Still exploring. Still questioning. Still building.*
+
+<br>
+
+**XZero | Learning Beyond the Surface**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:334B8E,100:8661C1&height=120&section=footer" alt="Decorative footer"/>
 
 </div>
