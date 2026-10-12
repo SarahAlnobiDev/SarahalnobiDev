@@ -160,11 +160,6 @@ Its vision is to transform student projects into a growing university knowledge 
 
 <br>
 
-<div align="center">
-
-*Every project represents another step toward deeper understanding.*
-
-</div>
 
 ---
 
@@ -224,10 +219,6 @@ My goal isn't to master everything overnight.
 It's to keep learning, keep building, and become a little more capable with every step.
 
 <br>
-
-**Stay curious. Think deeply. Build with purpose.**
-
-</div>
 
 ---
 
